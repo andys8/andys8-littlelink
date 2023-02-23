@@ -117,7 +117,7 @@ button:hover,
 /* Apple Music Alt */
 .button.button-apple-music-alt {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #FB5C74, #FA233B);
+  background-image: linear-gradient(to bottom, #fb5c74, #fa233b);
 }
 .button.button-apple-music-alt:hover,
 .button.button-apple-music-alt:focus {
@@ -137,7 +137,7 @@ button:hover,
 /* Apple Podcasts Alt */
 .button.button-apple-podcasts-alt {
   color: #ffffff;
-  background-image: linear-gradient(to bottom, #F452FF, #832BC1);
+  background-image: linear-gradient(to bottom, #f452ff, #832bc1);
 }
 .button.button-apple-podcasts-alt:hover,
 .button.button-apple-podcasts-alt:focus {
@@ -166,8 +166,8 @@ button:hover,
 
 /* Clubhouse */
 .button.button-clubhouse {
-  color: #1F1F1A;
-  background-color: #F1EFE3;
+  color: #1f1f1a;
+  background-color: #f1efe3;
 }
 .button.button-coffee:hover,
 .button.button-coffee:focus {
@@ -207,7 +207,7 @@ button:hover,
 /* Etsy */
 .button.button-etsy {
   color: #ffffff;
-  background-color: #F45800;
+  background-color: #f45800;
 }
 .button.button-etsy:hover,
 .button.button-etsy:focus {
@@ -265,7 +265,7 @@ button:hover,
 /* GitHub */
 .button.button-github {
   color: #ffffff;
-  background-color: #000000;
+  background-color: #2d333b;
 }
 .button.button-github:hover,
 .button.button-github:focus {
@@ -294,7 +294,7 @@ button:hover,
 
 /* Google Play Store */
 .button.button-playstore {
-  color: #FFFFFF;
+  color: #ffffff;
   background-color: #000000;
 }
 .button.button-playstore:hover,
@@ -305,7 +305,7 @@ button:hover,
 /* Google Podcasts */
 .button.button-google-podcasts {
   color: #000000;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 .button.button-google-podcasts:hover,
 .button.button-google-podcasts:focus {
@@ -365,7 +365,7 @@ button:hover,
 /* Ko-fi */
 .button.button-ko-fi {
   color: #ffffff;
-  background-color: #13C3FF;
+  background-color: #13c3ff;
 }
 .button.button-ko-fi:hover,
 .button.button-ko-fi:focus {
@@ -395,7 +395,7 @@ button:hover,
 /* Mastodon */
 .button.button-mastodon {
   color: #ffffff;
-  background-color: #17063B;
+  background-color: #17063b;
 }
 .button.button-mastodon:hover,
 .button.button-mastodon:focus {
@@ -428,7 +428,7 @@ button:hover,
 /* OnlyFans */
 .button.button-onlyfans {
   color: #ffffff;
-  background-color: #00AEEF;
+  background-color: #00aeef;
 }
 .button.button-onlyfans:hover,
 .button.button-onlyfans:focus {
@@ -468,7 +468,7 @@ button:hover,
 /* Post.news */
 .button.button-post-news {
   color: #ffffff;
-  background-color: #678BFF;
+  background-color: #678bff;
 }
 .button.button-post-news:hover,
 .button.button-post-news:focus {
@@ -563,7 +563,7 @@ button:hover,
 
 /* Spotify Alt */
 .button.button-spotify-alt {
-  color: #FFFFFF;
+  color: #ffffff;
   background-color: #191414;
 }
 .button.button-spotify-alt:hover,
@@ -594,7 +594,7 @@ button:hover,
 /* Substack */
 .button.button-substack {
   color: #ffffff;
-  background-color: #FF6719;
+  background-color: #ff6719;
 }
 .button.button-substack:hover,
 .button.button-substack:focus {
@@ -684,7 +684,7 @@ button:hover,
 /* Venmo */
 .button.button-venmo {
   color: #ffffff;
-  background-color: #008CFF;
+  background-color: #008cff;
 }
 .button.button-venmo:hover,
 .button.button-venmo:focus {
