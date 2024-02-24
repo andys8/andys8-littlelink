@@ -14,7 +14,7 @@ const linkData: LinkData[] = [
 function LinkButton({ title, href }: LinkData) {
   return (
     <a
-      className="p-[3px] relative min-w-40"
+      className="p-[2px] relative min-w-40"
       href={href}
       target="_blank"
       rel="noopener"
@@ -30,13 +30,13 @@ function LinkButton({ title, href }: LinkData) {
 export default function Home() {
   return (
     <div className="w-full bg-black flex flex-col items-center justify-center overflow-hidden absolute inset-0">
-      <h1 className="md:text-7xl text-5xl font-bold text-center text-white relative z-20 select-none">
+      <h1 className="md:text-7xl text-5xl font-bold text-center text-slate-100 relative z-20 select-none">
         andys8
       </h1>
 
       <div className="w-[40rem] h-40 relative">
         <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-slate-300 to-transparent h-[2px] w-3/4 blur-sm" />
-        <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-slate-300 to-transparent h-px w-3/4" />
+        <div className="absolute inset-x-20 top-0 bg-gradient-to-r from-transparent via-slate-300 to-transparent h-[2px] w-3/4" />
         <div className="absolute inset-x-60 top-0 bg-gradient-to-r from-transparent via-slate-500 to-transparent h-[5px] w-1/4 blur-sm" />
         <div className="absolute inset-x-60 top-0 bg-gradient-to-r from-transparent via-slate-500 to-transparent h-px w-1/4" />
 
